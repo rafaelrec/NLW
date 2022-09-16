@@ -110,7 +110,7 @@ section ul li:hover {
 
 header div{
     animation: fromTop .7s .2s backwards; /* animation-delay pode entrar na mesma linha de código*/
-    
+
 }
 
 main section{
